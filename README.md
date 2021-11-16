@@ -7,5 +7,5 @@ This code uses Akamai APIs to -
 3. Modify
 4. Delete 
 
-DNS records hosted in Akamai. Akamai uses EDGE-grid authentication for API authentication which is included in the code.
+DNS records hosted in Akamai. Akamai uses EDGE-grid authentication for API authentication which is included in the DNS-Master file.
 
